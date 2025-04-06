@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vasavi A S
-- 🌱 I’m currently pursuing my Btech degree in the field of computers and communication
+- 🌱 I’m currently pursuing my Btech degree in the field of computers and communication  at MIT Manipal
 - 👀 I'm actively improving my coding skills while balancing my studies and other activities.
 - 📫 How to reach me: vasavi.s3105@gmail.com 
 - 😄 Pronouns: she/her
